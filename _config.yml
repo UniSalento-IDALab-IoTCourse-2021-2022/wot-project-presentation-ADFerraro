@@ -1,6 +1,6 @@
 title: Localisation and Telemetry under Bluetooth Mesh
 logo:
 description: An IoT project for the Internet of Things course at the University of Salento
-show_downloads: true
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
